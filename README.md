@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
-<!--
-**RaivoBalodis/RaivoBalodis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎥 About Me
 
-Here are some ideas to get you started:
+I'm a content creator and developer behind the [Lunar YouTube Channel](https://www.youtube.com/@lunarwith9). I create content and love sharing my passion for technology and development with the community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+- 🎬 Content Creator on YouTube
+- 💻 Learning and growing as a developer
+- 🎨 Building projects and experimenting with code
+
+## 🛠️ Tech Stack
+
+### Currently Learning
+- 🐍 **Python** - Exploring data science, automation, and backend development
+- 💜 **C#** - Diving into game development and desktop applications
+
+### Already Know
+- 🌐 **HTML** - Structuring web content
+- 🎨 **CSS** - Styling and responsive design
+- ⚡ **JavaScript** - Interactive web experiences
+
+## 📊 Current Focus
+
+I'm currently focused on expanding my programming knowledge while creating content for my YouTube channel. I'm passionate about learning new technologies and sharing my journey with others.
+
+## 🔗 Connect With Me
+
+- 🎥 **YouTube**: [Lunar9]([YOUR_CHANNEL_LINK](https://www.youtube.com/@lunarwith9))
+- 💼 **GitHub**: You're already here!
+
+---
+
+⭐️ From [Lunar9](https://github.com/YOUR_USERNAME)
